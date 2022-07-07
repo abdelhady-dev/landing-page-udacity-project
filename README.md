@@ -62,7 +62,7 @@ This project is a landing page that responsive with desktop, tablet and mobile s
 
 ### Technologies
 
-This section list frameworks/libraries/languages used build my project.
+This section list frameworks/libraries/languages used to build my project.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://www.w3schools.com/css/)
@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
+Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
 
 Project Link: [https://github.com/abdelhady-dev/landing-page-udacity-project.git](https://github.com/abdelhady-dev/landing-page-udacity-project.git)
 
